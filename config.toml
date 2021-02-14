@@ -1,0 +1,4 @@
+baseURL = "https://bedroomviewzee.vercel.app"
+languageCode = "en-us"
+title = "Bedroom Ideas Minimalist"
+theme = "hugo-theme-minos"
